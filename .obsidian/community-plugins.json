@@ -8,5 +8,6 @@
   "copy-document-as-html",
   "calendar",
   "quickadd",
-  "obsidian-hide-sidebars-when-narrow"
+  "obsidian-hide-sidebars-when-narrow",
+  "obsidian-git"
 ]
