@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3b519e71fcd34e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "526371619c7fa14b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "462b20adfb5b11bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/print/삼차 함수(Cubic function).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22adfedce6dd0bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3c3930a0cd70bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5387b0433fb5665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0184a9afd6c9bf07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "무리수",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b8cc18795eacab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "232ee802bf35aba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba63713e550ec27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b81c17edd34570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0c75fe92671370e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Archives/print/삼차 함수(Cubic function).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2648b794728e09f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Archives/print/삼차 함수(Cubic function).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "addcafd4c9f5ca39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Archives/print/삼차 함수(Cubic function).md"
+              }
+            }
+          },
+          {
+            "id": "a255fa5b10baa1ba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a5387b0433fb5665",
+  "lastOpenFiles": [
+    "3. Resources/Attachment/Pasted image 20240501205257.png",
+    "3. Resources/Attachment/Pasted image 20240501204449.png",
+    "3. Resources/Attachment/Pasted image 20240501203409.png",
+    "3. Resources/Attachment/Pasted image 20240501202712.png",
+    "4. Archives/class/통계를 잘못 사용한 예시.md",
+    "4. Archives/print/그래프 완전정복 2.md",
+    "4. Archives/shorts/무리수도 꽤나 규칙적이다.md",
+    "4. Archives/script/무리수인데 왜 정수비로 표현되나요.md",
+    "4. Archives/print/교란 (Derangement).md",
+    "4. Archives/print/그래프 완전정복 1 - 기본.md",
+    "4. Archives/print/함수의 개수.md",
+    "4. Archives/print/다항함수의 넓이 공식.md",
+    "4. Archives/print/삼차 함수(Cubic function).md",
+    "4. Archives/print/사인함수의 넓이.md",
+    "4. Archives/print/로피탈(L'Hôpital's rule).md",
+    "4. Archives/print/등차수열(Arithmetic sequence).md",
+    "4. Archives/print/이항정리(Binomial theorem).md",
+    "4. Archives/print/우함수와 기함수(Even & Odd function).md",
+    "4. Archives/print/편미분.md",
+    "4. Archives/print/함수의 연속(Continuous).md",
+    "4. Archives/print/테일러 급수(Taylor series).md",
+    "4. Archives/class/통계 카드뉴스 만들기.md",
+    "4. Archives/class",
+    "4. Archives/Untitled.md",
+    "3. Resources/Attachment/Pasted image 20240422204218.png",
+    "Charts/Youtube Shorts.md",
+    "4. Archives/print",
+    "Charts/Youtube Scrpit.md",
+    "Charts/Talk.md",
+    "시간 복잡도.md",
+    "3. Resources/Attachment/Pasted image 20240320093501.png",
+    "3. Resources/Attachment/Pasted image 20240320093435.png",
+    "4. Archives/script/무리수인데 왜 정수비로 표현되나요, 여기서 왜 만나.md",
+    "4. Archives/script/세바방 5. 허수 i.md",
+    "모든 것을 알기위한 열쇠, 독립.pdf",
+    "3. Resources/Attachment/CleanShot 2024-01-04 at 18.26.17.png",
+    "Pasted image 20240103094448.png",
+    "2. Areas/Diary/2023",
+    "2. Areas/Diary/2024",
+    "Charts",
+    "3. Resources/Attachment/CleanShot 2023-11-24 at 10.18.14.png",
+    "3. Resources/Attachment/CleanShot 2023-11-24 at 10.17.38.png",
+    "4. Archives/talk",
+    "2. Areas/강연",
+    "2. Areas/Task",
+    "2. Areas/Diary/2023-12월",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

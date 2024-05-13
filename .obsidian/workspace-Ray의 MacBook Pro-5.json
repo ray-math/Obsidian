@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3b519e71fcd34e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "21116cba802ade41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f4eafce5905f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/talk/수업자료로써 수학 유튜브 제작 및 활용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22adfedce6dd0bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3c3930a0cd70bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5387b0433fb5665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0184a9afd6c9bf07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "anagra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b8cc18795eacab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "232ee802bf35aba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba63713e550ec27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b81c17edd34570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0c75fe92671370e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Archives/talk/수업자료로써 수학 유튜브 제작 및 활용.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2648b794728e09f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Archives/talk/수업자료로써 수학 유튜브 제작 및 활용.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "addcafd4c9f5ca39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Archives/talk/수업자료로써 수학 유튜브 제작 및 활용.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-full-calendar:Open Full Calendar": true
+    }
+  },
+  "active": "a9f4eafce5905f8a",
+  "lastOpenFiles": [
+    "Pasted image 20240103094448.png",
+    "2. Areas/Diary/2024/2024.01.03.(수).md",
+    "2. Areas/Diary/2023/2023.12.29.(금).md",
+    "2. Areas/Diary/2023",
+    "4. Archives/talk/수업자료로써 수학 유튜브 제작 및 활용.md",
+    "2. Areas/Diary/2024",
+    "1. Project/Scripts/ready/142857.md",
+    "1. Project/Scripts/ready/소수 분수의 반복되는 특별한 성질.md",
+    "Charts/Youtube Shorts.md",
+    "Charts/Youtube Scrpit.md",
+    "Charts/Talk.md",
+    "4. Archives/script/0으로 나눌 수 있다..md",
+    "Charts",
+    "2. Areas/Task/강연, 인터뷰 자료 모음.md",
+    "3. Resources/Attachment/CleanShot 2023-11-24 at 10.18.14.png",
+    "무제 파일.md",
+    "3. Resources/Clippings/시골의사 박경철 부자의 꿈, 3년안에 이루자.md",
+    "3. Resources/자료조사.md",
+    "3. Resources/Attachment/CleanShot 2023-11-24 at 10.17.38.png",
+    "4. Archives/talk",
+    "4. Archives/무제 파일.md",
+    "2. Areas/강연",
+    "Test.md",
+    "3. Resources/Attachment/CleanShot 2023-12-04 at 14.24.28.png",
+    "3. Resources/Attachment/CleanShot 2023-12-04 at 14.24.12 1.png",
+    "3. Resources/Attachment/CleanShot 2023-12-04 at 14.23.21.png",
+    "3. Resources/Attachment/CleanShot 2023-11-29 at 10.17.19.png",
+    "3. Resources/Attachment/CleanShot 2023-11-29 at 10.15.34.png",
+    "3. Resources/Attachment/CleanShot 2023-11-29 at 10.14.23.png",
+    "2. Areas/Task",
+    "4. Archives/script/0으로 나눌 수 없다..md",
+    "2. Areas/Diary/2023-12월/2023-12-29-금요일.md",
+    "2. Areas/Diary/2023-12월/2023-12-29-금요일 1.md",
+    "4. Archives/script/무리수인데 왜 정수비로 표현되나요, 여기서 왜 만나.md",
+    "2. Areas/Diary/2023-12월/2023-12-28-목요일 1.md",
+    "2. Areas/Diary/2023-12월/2023-12-27-수요일.md",
+    "4. Archives/script/폴리아 추측.md",
+    "4. Archives/script/어느새 부터 패턴은 안멋져.md",
+    "4. Archives/script/인류는 어떻게 e를 발견했는가.md",
+    "4. Archives/script/세바방 5. 허수 i.md",
+    "2. Areas/Diary/2023-12월",
+    "2. Areas/Diary",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "3. Resources/Math Note",
+    "4. Archives/script",
+    "3. Resources/Attachment/Pasted image 20231218083753.png"
+  ]
+}

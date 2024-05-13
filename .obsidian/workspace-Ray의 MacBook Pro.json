@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "c8fc708ffba68665",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ef07275c93ccba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1d816a25726b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/구분구적법.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cb5a3a0a38c9acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/구분구적법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "987ee27ec032127c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc46d6e2ed6a8e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a572d04834742a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "269904d7ef4cc7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f9011c1fa5e3eec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dc73a854d861d4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ed442d12ea5695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53460c803b064093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class/구분구적법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d504dd8a675253e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Class/구분구적법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93097c3d106eeca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84b5e28d86345705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Class/구분구적법.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": true,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "2d1d816a25726b30",
+  "lastOpenFiles": [
+    "Attachment/Pasted image 20231130085056.png",
+    "사랑하는 사람에게 공유해주세요..md",
+    "Attachment/Pasted image 20231129133939.png",
+    "Scripts/under construction/몬티홀 문제로 보는 현실의 확률.md",
+    "자료조사.md",
+    "Class/구분구적법.md",
+    "Attachment/CleanShot 2023-11-29 at 10.17.19.png",
+    "Attachment/CleanShot 2023-11-29 at 10.15.34 1.png",
+    "Attachment/CleanShot 2023-11-29 at 10.15.34.png",
+    "Attachment/CleanShot 2023-11-29 at 10.14.23.png",
+    "Class",
+    "Scripts/under construction/분수 미분법.md",
+    "Scripts/under construction/142857.md",
+    "Scripts/ready/배수를 빠르게 판단하는 법.md",
+    "투자와 수학 1.md",
+    "Memo/동은 결혼 축사.md",
+    "Memo/2023 수업 혁신사례 연구 수업 설계.md",
+    "Scripts/ready/거리와 원.md",
+    "Scripts/completed/2023/세바방 5. 허수 i.md",
+    "Scripts/completed/2023/인류는 어떻게 e를 발견했는가.md",
+    "Attachment/CleanShot 2023-11-24 at 10.18.14.png",
+    "Attachment/CleanShot 2023-11-24 at 10.17.38.png",
+    "Attachment/Pasted image 20231116100540.png",
+    "Attachment/Pasted image 20231116100157.png",
+    "Scripts/ready/7로 나누기.md",
+    "Scripts/ready/폴리아 추측.md",
+    "Scripts/under construction/정보와 확률.md",
+    "Clippings/시골의사 박경철 부자의 꿈, 3년안에 이루자.md",
+    "Scripts/under construction/랭글리 삼각형(Langley’s Problem).md",
+    "Scripts/completed/2023/어느새 부터 패턴은 안멋져.md",
+    "Scripts/completed/2023/세바방 4. 만유인력의 법칙.md",
+    "Scripts/completed/2023/모든 것을 알기위한 열쇠, 독립.md",
+    "Scripts/completed/2023/0으로 나눌 수 없다..md",
+    "Scripts/completed/2023/감정은 전염되는가.md",
+    "Scripts/completed/2023/모든 세자리 수를 만드는 분수.md",
+    "Scripts/completed/2023/무리수인데 왜 정수비로 표현되나요, 여기서 왜 만나.md",
+    "Scripts/ready",
+    "Scripts/completed/2023/Shorts",
+    "Scripts/completed/2023",
+    "Scripts/under construction/세바방 5. 허수 i.html",
+    "Scripts/under construction",
+    "Scripts/halted",
+    "Scripts/completed",
+    "Scripts",
+    "Attachment",
+    "CleanShot 2023-10-19 at 12.29.01@2x.png",
+    "무제 파일.canvas",
+    "Untitled.canvas"
+  ]
+}

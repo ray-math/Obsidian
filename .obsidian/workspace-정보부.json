@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "c8fc708ffba68665",
+    "type": "split",
+    "children": [
+      {
+        "id": "418b4fe816b9de5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb208c80b4b4fc23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/completed/2023/무리수도 꽤나 규칙적이다.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c903e50d11a968b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/under construction/거리와 원.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "987ee27ec032127c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc46d6e2ed6a8e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a572d04834742a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "269904d7ef4cc7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f9011c1fa5e3eec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dc73a854d861d4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ed442d12ea5695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53460c803b064093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scripts/completed/2023/무리수도 꽤나 규칙적이다.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d504dd8a675253e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scripts/completed/2023/무리수도 꽤나 규칙적이다.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93097c3d106eeca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84b5e28d86345705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scripts/completed/2023/무리수도 꽤나 규칙적이다.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": true,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "cb208c80b4b4fc23",
+  "lastOpenFiles": [
+    "Scripts/under construction/랭글리 삼각형(Langley’s Problem).md",
+    "Scripts/under construction/거리와 원.md",
+    "Scripts/under construction/폴리아 추측.md",
+    "Scripts/under construction/분수 미분법.md",
+    "Scripts/under construction/몬티홀 문제로 보는 현실의 확률.md",
+    "Scripts/completed/2023/무리수인데 왜 정수비로 표현되나요, 여기서 왜 만나.md",
+    "Scripts/under construction/절단 가능 소수.md",
+    "Scripts/completed/2023/무리수도 꽤나 규칙적이다.md",
+    "랭글리 삼각형(Langley’s Problem).md",
+    "무제 파일.md",
+    "Scripts/under construction/인수분해 팁.md",
+    "자료조사.md",
+    "Youtube/Scripts/under construction/길이 차이가 1인 삼각형.md",
+    "Scripts/completed/2023/Shorts/포획 & 재포획법.md",
+    "Scripts/completed/2023/Shorts/추측을 함부로 하면 안되는 이유.md",
+    "Scripts/completed/2023/Shorts/제곱한 후 나누어 더하면 자기 자신이 되는 수.md",
+    "Scripts/completed/2023/Shorts/자기 자신을 만들어 내는식.md",
+    "Scripts/completed/2023/Shorts/이건 또 뭐야 ...999=-1.md",
+    "Scripts/completed/2023/Shorts/알았으면 끄덕여.md",
+    "Scripts/completed/2023/Shorts/다른 수도 가능할까.md",
+    "Scripts/completed/2023/Shorts/요일의 순서.md",
+    "Scripts/completed/2023/Shorts/그녀는 나보다 달에게 더 끌린다.md",
+    "Scripts/completed/2023/Shorts/1만 더했을 뿐인데.md",
+    "Scripts/completed/2023/인류는 어떻게 e를 발견했는가.md",
+    "Scripts/completed/2023/어느새 부터 패턴은 안멋져.md",
+    "Scripts/completed/2023/세바방 5. 허수 i.md",
+    "Scripts/completed/2023/Shorts",
+    "Scripts/completed/2023",
+    "Scripts/under construction/세바방 5. 허수 i.html",
+    "Scripts/under construction",
+    "Scripts/halted",
+    "Scripts/completed",
+    "Scripts",
+    "Attachment",
+    "Youtube/Scripts/completed/2023/무제 폴더/무제 폴더",
+    "Youtube/Scripts/completed/2023/Shorts",
+    "CleanShot 2023-10-19 at 12.29.01@2x.png",
+    "attachments/Pasted image 20231005163345.png",
+    "Pasted image 20231005163646.png",
+    "attachments/CleanShot 2023-09-22 at 09.35.05@2x.png",
+    "무제 파일.canvas",
+    "Untitled.canvas"
+  ]
+}
